@@ -55,6 +55,8 @@
                     </header>
 
                     <main class="mt-6">
+                        <p>6:02 / 25:19</p>
+                        <p>Multi User Login System using Laravel Jetstream | Laravel Hotel Management System Project Tutorial</p>
                         <div class="grid gap-6 lg:grid-cols-2 lg:gap-8">
                             <a
                                 href="https://laravel.com/docs"
